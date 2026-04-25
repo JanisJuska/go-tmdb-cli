@@ -27,7 +27,7 @@ All directly from your terminal, with clean and readable table output.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/go-tmdb-cli.git
+git clone https://github.com/JanisJuska/go-tmdb-cli.git
 cd go-tmdb-cli
 ```
 
