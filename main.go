@@ -66,7 +66,8 @@ func main() {
 		reqType = "upcoming"
 		reqTString = "Upcoming"
 	default:
-		fmt.Println("Invalid or missing --type flag")
+		fmt.Println("Missing required --type flag")
+		flag.Usage()
 		return
 	}
 
